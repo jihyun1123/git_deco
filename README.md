@@ -1,1 +1,1 @@
-# git_deco
+# Hi, Welcome to Jihyun's github!
